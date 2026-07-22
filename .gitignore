@@ -1,0 +1,31 @@
+# Python / Django
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.dll
+*.dylib
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database
+db.sqlite3
+db.sqlite3-journal
+
+# IDEs & OS
+.idea/
+.DS_Store
+Thumbs.db
+
+# Task / Log scratch files
+*.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
